@@ -15,7 +15,7 @@ sudo apt install mysql-client -y
 
 📥 Download MISP installer:
 
-wget ([MISP Installer](https://github.com/MSafwanAwan/MISP-Integration-with-Wazuh/blob/main/INSTALL.sh))
+([MISP Installer](https://github.com/MSafwanAwan/MISP-Integration-with-Wazuh/blob/main/INSTALL.sh))
 
 🔐 Give execution permission:
 
