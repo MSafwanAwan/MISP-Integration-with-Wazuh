@@ -2,7 +2,9 @@
 
 ## 📌 Overview
 This task focuses on integrating MISP (Malware Information Sharing Platform) with Wazuh SIEM to enrich alerts using external threat intelligence and improve detection capabilities.
-For Full Documentation [Wazuh Integration with MISP](https://github.com/MSafwanAwan/MISP-Integration-with-Wazuh/blob/main/Wazuh%20Integration%20with%20MISP.pdf
+
+📄 **Full Detailed Documentation (with screenshots & steps):** 
+([Wazuh Integration with MISP.pdf](https://github.com/MSafwanAwan/MISP-Integration-with-Wazuh/blob/main/Wazuh%20Integration%20with%20MISP.pdf))
 
 ## 🎯 Objective
 - 🖥 Deploy MISP on Ubuntu  
